@@ -50,5 +50,5 @@ python manage.py runserver
 
 ## Author
 
-Bhargav Baria
+Bhargav Baria & Nirav Acharya
 B.Sc. IT Graduate | Django Full Stack Developer
