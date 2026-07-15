@@ -31,7 +31,7 @@ This project simulates a real-world online food delivery platform similar to Zom
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone <[repository-url](https://github.com/Nirav1402/Full-Stack-Dev-Project.git)>
 cd fastfood_project
 
 pip install -r requirements.txt
